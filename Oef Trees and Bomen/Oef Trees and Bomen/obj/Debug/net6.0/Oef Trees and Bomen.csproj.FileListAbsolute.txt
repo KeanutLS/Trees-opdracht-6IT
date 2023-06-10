@@ -1,0 +1,15 @@
+C:\Users\Keanu\OneDrive - VZW Arcadia\Oefeningen\Oef Trees and Bomen\Oef Trees and Bomen\obj\Debug\net6.0\Oef Trees and Bomen.csproj.AssemblyReference.cache
+C:\Users\Keanu\OneDrive - VZW Arcadia\Oefeningen\Oef Trees and Bomen\Oef Trees and Bomen\obj\Debug\net6.0\Oef Trees and Bomen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Keanu\OneDrive - VZW Arcadia\Oefeningen\Oef Trees and Bomen\Oef Trees and Bomen\obj\Debug\net6.0\Oef Trees and Bomen.AssemblyInfoInputs.cache
+C:\Users\Keanu\OneDrive - VZW Arcadia\Oefeningen\Oef Trees and Bomen\Oef Trees and Bomen\obj\Debug\net6.0\Oef Trees and Bomen.AssemblyInfo.cs
+C:\Users\Keanu\OneDrive - VZW Arcadia\Oefeningen\Oef Trees and Bomen\Oef Trees and Bomen\obj\Debug\net6.0\Oef Trees and Bomen.csproj.CoreCompileInputs.cache
+C:\Users\Keanu\OneDrive - VZW Arcadia\Oefeningen\Oef Trees and Bomen\Oef Trees and Bomen\bin\Debug\net6.0\Oef Trees and Bomen.exe
+C:\Users\Keanu\OneDrive - VZW Arcadia\Oefeningen\Oef Trees and Bomen\Oef Trees and Bomen\bin\Debug\net6.0\Oef Trees and Bomen.deps.json
+C:\Users\Keanu\OneDrive - VZW Arcadia\Oefeningen\Oef Trees and Bomen\Oef Trees and Bomen\bin\Debug\net6.0\Oef Trees and Bomen.runtimeconfig.json
+C:\Users\Keanu\OneDrive - VZW Arcadia\Oefeningen\Oef Trees and Bomen\Oef Trees and Bomen\bin\Debug\net6.0\Oef Trees and Bomen.dll
+C:\Users\Keanu\OneDrive - VZW Arcadia\Oefeningen\Oef Trees and Bomen\Oef Trees and Bomen\bin\Debug\net6.0\Oef Trees and Bomen.pdb
+C:\Users\Keanu\OneDrive - VZW Arcadia\Oefeningen\Oef Trees and Bomen\Oef Trees and Bomen\obj\Debug\net6.0\Oef Trees and Bomen.dll
+C:\Users\Keanu\OneDrive - VZW Arcadia\Oefeningen\Oef Trees and Bomen\Oef Trees and Bomen\obj\Debug\net6.0\refint\Oef Trees and Bomen.dll
+C:\Users\Keanu\OneDrive - VZW Arcadia\Oefeningen\Oef Trees and Bomen\Oef Trees and Bomen\obj\Debug\net6.0\Oef Trees and Bomen.pdb
+C:\Users\Keanu\OneDrive - VZW Arcadia\Oefeningen\Oef Trees and Bomen\Oef Trees and Bomen\obj\Debug\net6.0\Oef Trees and Bomen.genruntimeconfig.cache
+C:\Users\Keanu\OneDrive - VZW Arcadia\Oefeningen\Oef Trees and Bomen\Oef Trees and Bomen\obj\Debug\net6.0\ref\Oef Trees and Bomen.dll
